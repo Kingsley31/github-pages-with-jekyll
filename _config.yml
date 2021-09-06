@@ -1,7 +1,7 @@
 title: "Kingsley's blog"
 author: Kingsley
 email: kingsleyemeka31@gmail.com
-team: minima
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is a tech blog where software engineers can learn awsome
   stuffs about software development.
